@@ -23,6 +23,12 @@
     "npm": ">=2.15"
   },
   "babel": {
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {
+    "npm": "^5.6.0",
+    "start": "^5.1.0"
   }
 }
